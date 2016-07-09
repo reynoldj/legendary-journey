@@ -54,7 +54,7 @@ __Did gyre and gimble in the wabe:__
 
 __All mimsy were the borogoves,__
 
-__And the mome raths outgrabe.__
+__And the mome raths outgrabe..__
 
 -- _Lewis Caroll_
 
