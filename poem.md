@@ -2,35 +2,35 @@
 
 __’Twas brillig, and the slithy toves__
 
-__Did gyre and gimble in the wabe: __
+__Did gyre and gimble in the wabe:__
 
-__All mimsy were the borogoves, __
+__All mimsy were the borogoves,__
 
-__And the mome raths outgrabe. __
+__And the mome raths outgrabe.__
 
 *“Beware the Jabberwock, my son!* 
 
 *The jaws that bite, the claws that catch!* 
 
-*Beware the Jubjub bird, and shun 
+*Beware the Jubjub bird, and shun*
 
-The frumious Bandersnatch!”*
+*The frumious Bandersnatch!”*
 
-He took his vorpal sword in hand; 
+__He took his vorpal sword in hand;__
 
-Long time the manxome foe he sought— 
+__Long time the manxome foe he sought—__
 
-So rested he by the Tumtum tree 
+__So rested he by the Tumtum tree__
 
-And stood awhile in thought. 
+__And stood awhile in thought.__
 
-And, as in uffish thought he stood, 
+__And, as in uffish thought he stood,__
 
-The Jabberwock, with eyes of flame, 
+__The Jabberwock, with eyes of flame,__
 
-Came whiffling through the tulgey wood, 
+__Came whiffling through the tulgey wood,__
 
-And burbled as it came! 
+__And burbled as it came!__
 
 One, two! One, two! And through and through 
 
