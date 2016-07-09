@@ -32,13 +32,13 @@ __Came whiffling through the tulgey wood,__
 
 __And burbled as it came!__
 
-One, two! One, two! And through and through 
+__One, two! One, two! And through and through__
 
-The vorpal blade went snicker-snack! 
+__The vorpal blade went snicker-snack!__
 
-He left it dead, and with its head 
+__He left it dead, and with its head__
 
-He went galumphing back. 
+__He went galumphing back.__
 
 *“And hast thou slain the Jabberwock? 
 
@@ -46,16 +46,16 @@ Come to my arms, my beamish boy!*
 
 *O frabjous day! Callooh! Callay!”*
 
-He chortled in his joy. 
+__He chortled in his joy.__
 
-’Twas brillig, and the slithy toves 
+__’Twas brillig, and the slithy toves__
 
-Did gyre and gimble in the wabe: 
+__Did gyre and gimble in the wabe:__
 
-All mimsy were the borogoves, 
+__All mimsy were the borogoves,__
 
-And the mome raths outgrabe.
+__And the mome raths outgrabe.__
 
 -- _Lewis Caroll_
 
-*http://www.poetryfoundation.org/poems-and-poets/poems/detail/42916*
+*__http://www.poetryfoundation.org/poems-and-poets/poems/detail/42916*__
